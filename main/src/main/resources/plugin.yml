@@ -1,0 +1,11 @@
+name: Maguro
+version: ${project.version}
+main: com.bun133.maguro.Maguro
+api-version: 1.15
+authors: [ Bun133 ]
+description: You cannot stop for a second
+website: https://twitter.com/bun133_
+commands:
+  maguro:
+    description: This is the master command of Maguro Plugin
+    usage: /<command> <s/start/e/end>
